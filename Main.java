@@ -2,10 +2,10 @@ public class Main {
     public static void main(String[]args) {
         Manusia m= new Manusia();
 
-        m.setRambut("Ikal");
+        m.setRambut("Panjang");
         System.out.println(m.getRambut());
 
-        System.out.println(m.Memasak("Semur Tahu"));
+        System.out.println(m.Memasak("Sayur Bayam"));
 
         Telepon pt= new Telepon();
 
