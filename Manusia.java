@@ -15,10 +15,10 @@ public class Manusia {
     public String getMata() {
         return Mata;
     }
+
     public void setMulut(String mulut) {
         Mulut = mulut;
     }
-    
     public String getMulut() {
         return Mulut;
     }
